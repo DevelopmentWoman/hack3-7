@@ -1,1 +1,5 @@
-# hack3-7
+# hack 7
+
+Ejercicio aplicando diferentes propiedades, pseudo clases, entre las más resaltantes:
+
+Flex, position(relative, absoluta), :nth-child(), line-height, letter-spacing,etc.
